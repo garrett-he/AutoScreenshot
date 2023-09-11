@@ -1,0 +1,7 @@
+## Interface: 111000
+## Title: AutoScreenshot
+## Notes: Takes screenshots on achievement earned.
+## Author: Garrett HE <garrett.he@outlook.com>
+## Version: 0.1.0
+
+main.lua
