@@ -1,7 +1,11 @@
-## Interface: 111000
+## Interface-Mainline: 110002
+## Interface-Classic: 11501
+## Interface-TBC: 20504
+## Interface-Wrath: 30403
+## Interface-Cata: 40400
 ## Title: AutoScreenshot
 ## Notes: Takes screenshots on achievement earned.
 ## Author: Garrett HE <garrett.he@outlook.com>
-## Version: 0.1.0
+## Version: @project-version@
 
 main.lua
